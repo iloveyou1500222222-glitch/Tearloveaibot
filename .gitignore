@@ -1,0 +1,11 @@
+bot.db
+__pycache__/
+*.pyc
+.env
+config.py
+*.log
+.DS_Store
+venv/
+env/
+*.db
+*.sqlite
