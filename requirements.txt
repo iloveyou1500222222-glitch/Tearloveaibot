@@ -1,5 +1,4 @@
-python-telegram-bot==13.7
-flask==2.3.3
-httpx==0.25.2
-huggingface-hub==0.20.3
-g4f==0.3.5.2
+python-telegram-bot
+flask
+httpx
+huggingface-hub
