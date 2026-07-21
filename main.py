@@ -151,7 +151,7 @@ def main():
     application.add_error_handler(error_handler)
     
     logger.info(f"🤖 Bot started! Version: {BOT_VERSION}")
-    application.run_polling(allowed_updates=Update.ALL_TYPES)
+    application.run_polling()
 
 if __name__ == "__main__":
     main()
