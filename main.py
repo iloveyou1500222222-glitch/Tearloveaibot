@@ -1,3 +1,5 @@
+import sys
+print(f"🐍 Python version: {sys.version}")
 # main.py
 import os
 import logging
